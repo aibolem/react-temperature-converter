@@ -113,7 +113,7 @@
                         "data-icon": "octicon-star",
                         "data-size": "large",
                         "data-show-count": "true",
-                        href: "https://github.com/senniksoft/react-temperature-converter"
+                        href: "https://github.com/aibolem/react-temperature-converter"
                     }, "Giving Star helps your brother :)"), r.a.createElement("h2", {
                         className: "ui header block aligned icon center"
                     }, r.a.createElement("div", {
@@ -195,8 +195,8 @@
                     })))))), r.a.createElement("div", {
                         className: "ui bottom left attached label"
                     }, "Programmer Org Name for egsample: ComPosarc sience 1932", r.a.createElement("a", {
-                        href: "mailto:info@"
-                    }, " info@"))))
+                        href: "mailto:composersunion.ge@musicien.org"
+                    }, " composersunion.ge@musicien.org"))))
                 };
             Boolean("localhost" === window.location.hostname || "[::1]" === window.location.hostname || window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));
             l.a.render(r.a.createElement(b, null), document.getElementById("root")), "serviceWorker" in navigator && navigator.serviceWorker.ready.then((function(e) {
