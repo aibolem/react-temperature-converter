@@ -194,7 +194,7 @@
                         text: b
                     })))))), r.a.createElement("div", {
                         className: "ui bottom left attached label"
-                    }, "Programmer Org Name for egsample: ComPosarc sience 1932", r.a.createElement("a", {
+                    }, "Programmer: ComPosarc sience 1932", r.a.createElement("a", {
                         href: "mailto:composersunion.ge@musicien.org"
                     }, " composersunion.ge@musicien.org"))))
                 };
